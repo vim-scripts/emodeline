@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=467
+
+If a file contains
+
+# -*- sh -*-
+[...]
+
+&filetype will be automatically set to "sh". This is the Emacs way of saying # vim:ft=sh :)
